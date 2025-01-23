@@ -1,0 +1,8 @@
+.prvi{
+    border-style: inset;
+}
+
+.drugii{
+    border-top: thick;
+    border-bottom: thin;
+}

@@ -1,0 +1,57 @@
+.p1{
+    border: 5px solid green;
+    margin: auto;
+}
+
+.p2{
+    font-style: italic;
+    margin-bottom: 100px;
+    margin-left: 100px;
+}
+
+.p3{
+    font-weight: bold;
+    margin-right: 200px;
+
+}
+
+.p4{
+    border-bottom-color: yellow;
+    border-right-color: red;
+    border-top-color: greenyellow;
+
+}
+.p5{
+    font-style: oblique;
+    font-family: "Times New Roman";
+    background-color: deeppink;
+
+}
+
+.p6{
+    margin-top: 500px;
+    border-top: blueviolet;
+
+}
+
+.p7{
+    margin: auto;
+    background-color: darkgray;
+
+}
+
+.p8{
+    border-bottom-color: aqua;
+
+}
+
+.p9{
+    margin-left: 600px;
+
+}
+
+.p10{
+    margin-top: 700px;
+    width: 100px;
+    height: 100px;
+}
